@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thehappyworld.github.io</id>
     <title>幸福世界HappyWorld</title>
-    <updated>2021-02-26T00:48:22.347Z</updated>
+    <updated>2021-02-26T00:51:21.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://thehappyworld.github.io"/>
     <link rel="self" href="https://thehappyworld.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://thehappyworld.github.io/images/avatar.png</logo>
     <icon>https://thehappyworld.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 幸福世界HappyWorld</rights>
+    <entry>
+        <title type="html"><![CDATA[心情好]]></title>
+        <id>https://thehappyworld.github.io/post/xin-qing-hao/</id>
+        <link href="https://thehappyworld.github.io/post/xin-qing-hao/">
+        </link>
+        <updated>2021-02-26T00:50:40.000Z</updated>
+        <content type="html"><![CDATA[<p>只要心情好，世界就最美好。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea 您好！]]></title>
         <id>https://thehappyworld.github.io/post/hello-gridea/</id>
